@@ -14,7 +14,7 @@
 
 **提交地址**
 
-- 命名为队伍序号+队伍名称的pdf文件，发送至v-songj@microsoft.com
+- 命名为“队伍序号+队伍名称”的pdf文件，发送至v-songj@microsoft.com
 
 **截止日期**
 
