@@ -1,5 +1,4 @@
 ## **Task 1.2 进阶项目（任务1+任务2）**
----
  ### **任务 1 描述：**
 - 访问 [Python机器学习库网站](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
 - 完成初级任务：Training a classifier
