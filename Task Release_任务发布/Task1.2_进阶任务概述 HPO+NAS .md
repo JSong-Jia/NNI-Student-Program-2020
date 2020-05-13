@@ -10,7 +10,7 @@
 
 ### **提交地址**
 
-- 将文档整理打包为压缩文件，命名为“队伍序号+队伍名称”，发送至v-yugzh@microsoft.com
+- 整理目标文档及代码，命名为 NNI Task1.2.1，自行在github public repo上发布，将链接发送至v-yugzh@microsoft.com。
 
 ### **截止日期**
 
@@ -29,7 +29,7 @@
 
 ### **提交地址**
 
-- 将文档整理打包为压缩文件，命名为“队伍序号+队伍名称”，发送至v-yugzh@microsoft.com
+- 整理目标文档及代码，命名为 NNI Task1.2.2，自行在github public repo上发布，将repo链接发送至v-yugzh@microsoft.com。
 
 ### **截止日期**
 
