@@ -27,7 +27,7 @@
 
 ### **提交地址**
 
-- 整理目标文档及代码，命名为 NNI Task1.3.2，自行在github public repo上发布，将repo链接发送至v-yugzh@microsoft.com。
+- 整理目标文档及代码，自行在github public repo上发布，将repo名称及链接发送至v-yugzh@microsoft.com。
 
 ### **截止日期**
 
